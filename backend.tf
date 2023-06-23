@@ -4,7 +4,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "BT-Azure"
     workspaces {
-      name = "ace-iac-day-zero"
+      name = "ace-iac-day-zero-1"
     }
   }
 }
